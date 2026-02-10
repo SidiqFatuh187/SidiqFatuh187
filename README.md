@@ -1,14 +1,37 @@
-## Hi there 👋
+<h2 align="center" style="font-size:250px" > Hi, there! i'm SidiqFatuh 👋 </h2>
 
-<!--
-**SidiqFatuh187/SidiqFatuh187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### 🛠 Languages and Tools
 <div align="center">
-    <img height="27" src="https://img.shields.io/badge/-HTML-0d182b?style=flat&logo=html5" alt="html5"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=flat&logo=css3&logoColor=1572B6" alt="css"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-JavaScript-0d182b?style=flat&logo=javascript" alt="javascript"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-PHP-0d182b?style=flat&logo=php&logoColor=777BB4" alt="php"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Laravel-0d182b?style=flat&logo=laravel&logoColor=FF2D20" alt="laravel"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-TailwindCSS-0d182b?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="tailwind"> &nbsp;
+<a href="https://discord.com/users/1086241543217754142">
+    <img src="https://lanyard.cnrad.dev/api/1086241543217754142?borderRadius=30px&theme=dark&hideStatus=true&hideSpotify=true&showDisplayName=true&hideActivity=true" />
+</a>
+</div>
+
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=SidiqFatuh187&abbreviated=true&style=flat-square&color=248085)
+    
+</div>
+
+## 🎓About Me
+
+- 🏫 **Computer Science Student** at **Universitas Bina Darma**
+- 🌱 Currently learning **Web Development**
+- ⚡ **Things I love besides coding:**
+  * Playing games 🎮
+  * Watching movies and anime 📺
+    
+### 🛠 Currently Learning:
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,py,git,tailwind,js,react" />
+  </a>
+</p>
+
+## 🎮 Discord Status
+<div align="center">
+<a href="https://discord.com/users/1086241543217754142">
+    <img src="https://lanyard.cnrad.dev/api/1086241543217754142?borderRadius=30px&theme=dark&hideStatus=true&hideSpotify=true&showDisplayName=true" />
+</a>
 </div>
