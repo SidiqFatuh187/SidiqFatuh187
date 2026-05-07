@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,py,git,tailwind,js,react,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,git,tailwind,js,react,vue,golang" />
   </a>
 </p>
 
