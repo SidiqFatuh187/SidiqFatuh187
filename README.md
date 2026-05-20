@@ -16,11 +16,11 @@
 
 - 🏫 **Computer Science Student** at **Universitas Bina Darma**
 - 🌱 Currently learning **Web Development**
+- 👯 Looking for **freelance**, **Open source contributor** and **Web development projects**
+- 📫 Reach me: sidiqfatuh71@gmail.com
 - ⚡ **Things I love besides coding:**
   * Playing games 🎮
   * Watching movies and anime 📺
-- 👯 Looking for **freelance**, **Open source contributor** and **Web development projects**
-- 📫 Reach me: sidiqfatuh71@gmail.com
 
 ### 🛠 Currently Learning:
 
