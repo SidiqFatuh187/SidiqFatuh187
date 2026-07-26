@@ -15,7 +15,7 @@
 ## 🎓About Me
 
 - 🏫 **Computer Science Student** at **Universitas Bina Darma**
-- 🌱 Currently learning **Web Development** Mostly **Backend Engineering using Laravel/GO**
+- 🌱 Currently learning **DevOps Engineer** Mostly **Backend Engineering using Laravel/GO**
 - 👯 Looking for **freelance**, **Open source contributor** and **Web development projects**
 - 📫 Reach me: sidiqfatuh71@gmail.com
 - ⚡ **Things I love besides coding:**
