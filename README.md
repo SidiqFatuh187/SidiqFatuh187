@@ -30,10 +30,3 @@
     <img src="https://skillicons.dev/icons?i=js,tailwind,php,laravel,aws,git,docker,githubactions,kubernetes,vue,golang" />
   </a>
 </p>
-
-## 🎮 Discord Status
-<div align="center">
-<a href="https://discord.com/users/1086241543217754142">
-    <img src="https://lanyard.cnrad.dev/api/1086241543217754142?borderRadius=30px&theme=dark&hideSpotify=true&showDisplayName=true" />
-</a>
-</div>
