@@ -22,7 +22,7 @@
   * Playing games 🎮
   * Watching movies and anime 📺
 
-### 🛠 Currently Learning:
+### 🛠 Tech Stack & Tools:
 
 
 <p align="center">
