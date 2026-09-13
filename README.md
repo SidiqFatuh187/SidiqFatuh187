@@ -29,11 +29,16 @@
     <img height="27" src="https://img.shields.io/badge/-TailwindCSS-0d182b?style=flat&logo=tailwindcss" alt="tailwindcss"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-PHP-0d182b?style=flat&logo=php" alt="php"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Laravel-0d182b?style=flat&logo=laravel" alt="laravel"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-AWS-0d182b?style=flat&logo=amazonwebservices" alt="aws"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Git-0d182b?style=flat&logo=git" alt="git"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Docker-0d182b?style=flat&logo=docker" alt="docker"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-GitHub%20Actions-0d182b?style=flat&logo=githubactions" alt="githubactions"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Kubernetes-0d182b?style=flat&logo=kubernetes" alt="kubernetes"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Vue.js-0d182b?style=flat&logo=vuedotjs" alt="vue"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Go-0d182b?style=flat&logo=go" alt="go"> &nbsp;
+</div>
+
+<div align="center">
+    
+<img height="27" src="https://img.shields.io/badge/-Kubernetes-0d182b?style=flat&logo=kubernetes" alt="kubernetes"> &nbsp;
+<img height="27" src="https://img.shields.io/badge/-GitHub%20Actions-0d182b?style=flat&logo=githubactions" alt="githubactions"> &nbsp;
+<img height="27" src="https://img.shields.io/badge/-Docker-0d182b?style=flat&logo=docker" alt="docker"> &nbsp;
+<img height="27" src="https://img.shields.io/badge/-Git-0d182b?style=flat&logo=git" alt="git"> &nbsp;
+<img height="27" src="https://img.shields.io/badge/-AWS-0d182b?style=flat&logo=amazonwebservices" alt="aws"> &nbsp;
+    
 </div>
