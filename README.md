@@ -31,6 +31,7 @@
     <img height="27" src="https://img.shields.io/badge/-Laravel-0d182b?style=flat&logo=laravel" alt="laravel"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Vue.js-0d182b?style=flat&logo=vuedotjs" alt="vue"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Go-0d182b?style=flat&logo=go" alt="go"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Electron-0d182b?style=flat&logo=Electron" alt="go"> &nbsp;
 </div>
 
 <div align="center">
