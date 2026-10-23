@@ -6,10 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SidiqFatuh187&abbreviated=true&style=flat-square&color=248085" />
-</div>
-
 ## 🎓 About Me
 
 - 🏫 **Computer Science Student** at **Universitas Bina Darma**
